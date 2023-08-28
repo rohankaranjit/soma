@@ -1,0 +1,38 @@
+*{
+    padding: 5px;
+    margin: 5 px;
+    background-color: bisque;
+    
+}
+ul{
+      text-align: center;
+      display: inline-block;
+      margin-right: auto;
+    
+    }
+#h1{
+    text-align: center;
+}
+#food{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#welcome{
+    text-align: center;
+    font-size: x-large;
+}
+#para{
+
+}
+nav{
+    
+    text-align: center;
+    display: inline-block;
+    margin-right: auto;
+  
+}
+#powered{
+    text-align: center;
+}
