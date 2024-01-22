@@ -1,6 +1,6 @@
 function main() {
 
-	(function () {
+(function () {
    'use strict';
    
   	$('a.page-scroll').click(function() {
