@@ -1,5 +1,4 @@
 
-//  - Balazs Galambosi (maintainer)  
 
 
 (function(){
