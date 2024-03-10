@@ -1,5 +1,4 @@
 
-// People involved
 //  - Balazs Galambosi (maintainer)  
 
 
