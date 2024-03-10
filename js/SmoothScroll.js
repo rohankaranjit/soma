@@ -1,4 +1,3 @@
-
 (function(){
   
 // Scroll Variables (tweakable)
