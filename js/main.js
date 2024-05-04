@@ -1,5 +1,4 @@
-
-function main() {
+unction main() {
 
 (function () {
    'use strict';
