@@ -1,4 +1,4 @@
-unction main() {
+function main() {
 
 (function () {
    'use strict';
